@@ -1,3 +1,5 @@
+#Export List of Store for Business Apps with Details and Export to CSV
+
 # Import the AzureAD module
 Install-Module -Name AzureAD
 
